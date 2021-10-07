@@ -14,3 +14,5 @@ and prints out the percentage of movie plots in which the word occurs, sorted by
 
 See the Pandas documentation (Links to an external site.) and cheat sheet (Links to an external site.).
 
+NOTE!! CSV file is too big to be uploaded to GITHUB.
+
