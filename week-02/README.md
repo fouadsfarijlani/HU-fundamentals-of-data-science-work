@@ -16,10 +16,10 @@ Given b:
 
 Make a dictionary with a number of users and with the following values:
 
--First name
--Last name
--Email address
--Password
+- First name
+- Last name
+- Email address
+- Password
 
 Ask the user for:
 
@@ -28,8 +28,8 @@ Ask the user for:
 
 Loop (for()) through the dictionary and if (if()) the user is found print the following:
 
--Hello, first name last name you have successfully logged in
--Notify the user if the password and email address are wrong
+- Hello, first name last name you have successfully logged in
+- Notify the user if the password and email address are wrong
 
 Additional challenge: if you want the program to keep asking for a username and password when the combination is wrong, you will need a while() loop.
 
