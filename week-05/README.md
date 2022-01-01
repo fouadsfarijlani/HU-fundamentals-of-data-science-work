@@ -10,13 +10,13 @@ have become widespread in popular culture.
 The 'facts' are normally absurd hyperbolic claims about Norris' toughness, attitude, virility, sophistication, and masculinity.
 Not surprisingly, Chuck also has an API dedicated to these facts: chucknorris.io. For the first part of this assignment, you are going to retrieve data from this API.
 
-1- Check out the documentation on https://api.chucknorris.io/ (Links to an external site.) and read how to address the “random chuck joke” endpoint works.
-2- Create norris_random.py and write code that retrieves a random chuck joke and prints it on the screen
-3- Now check the documentation on https://api.chucknorris.io/ (Links to an external site.) and read how the “free text search” endpoint works.
-4- Create norris_search.py and write code where the user searches with a query and returns jokes based on that query. 
+1. Check out the documentation on https://api.chucknorris.io/ (Links to an external site.) and read how to address the “random chuck joke” endpoint works.
+2. Create norris_random.py and write code that retrieves a random chuck joke and prints it on the screen
+3. Now check the documentation on https://api.chucknorris.io/ (Links to an external site.) and read how the “free text search” endpoint works.
+4. Create norris_search.py and write code where the user searches with a query and returns jokes based on that query. 
    This will, of course, return more than one joke so a for-loop is in place.
    
-Part 2: Do or do not. There is no try.
+<h4>Part 2: Do or do not. There is no try.</h4>
 
 Who doesn’t know Yoda, the fictional character from the Star Wars universe? In the most recent Star Wars series, 
 The Mandalorian, there is even a baby Yoda. Yoda has become iconic in popular culture due to his distinct pattern of spe­ech and role as an old, wise mentor. 
