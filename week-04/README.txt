@@ -1,3 +1,7 @@
+This file contains assignment for week 04.
+
+<h3>Given: </h3>
+
 In this assignment, we are doing digital research into cinematic culture. 
 We will use movie plot summaries scraped from Wikipedia (see full description here (Links to an external site.)).  
 How do movie plots differ in different cultures? Which words occur in the descriptions of American, Chinese, Turkish, Japanese, and movies of other countries?
