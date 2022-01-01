@@ -1,6 +1,6 @@
 The following file contains the assignment for week 02.
 
-Given a:
+<h3>Given a:</h3>
 
 Make a simple todo list using a list. Make sure the code contains the following actions as listed below:
 - add a task to the todo list with append().
@@ -12,7 +12,7 @@ Make a simple todo list using a list. Make sure the code contains the following 
 - tell the user that if he/she has more or equal than 6 items she has no room to do more tasks.
 - save the .py and submit.
 
-Given b:
+<h3>Given b:</h3>
 
 Make a dictionary with a number of users and with the following values:
 
