@@ -31,7 +31,7 @@ The title of this part refers to that. Just like Chuck Norris, Yoda has his own 
 Now we know how to address both APIs it is time to connect them into our new service. Chuck Yoda.
 
   1. Check out the documentation on https://api.chucknorris.io/ (Links to an external site.) and read how the “random chuck joke from a specific category” endpoint works.
-  2. Create chuck_yoda.py and write code that
-    <li> Take a random Chuck Norris quote from the science category.</li>
-    <li>Change the text “Chuck Norris” with the replace method to I or I am.</li>
+  2. Create chuck_yoda.py and write code that:
+    2a. Take a random Chuck Norris quote from the science category.
+    2b. Change the text “Chuck Norris” with the replace method to I or I am.
     
