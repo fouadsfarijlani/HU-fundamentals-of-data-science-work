@@ -22,16 +22,16 @@ Who doesn’t know Yoda, the fictional character from the Star Wars universe? In
 The Mandalorian, there is even a baby Yoda. Yoda has become iconic in popular culture due to his distinct pattern of spe­ech and role as an old, wise mentor. 
 The title of this part refers to that. Just like Chuck Norris, Yoda has his own API.
 
-  1- Check out the documentation on https://github.com/richchurcher/yoda-api (Links to an external site.) how to turn a normal text string into Yodish
-  2- Create talk_yoda_to_me.py and write code where the user is asked to submit a sentence. This sentence will be transformed into Yodish using the API. 
+  1. Check out the documentation on https://github.com/richchurcher/yoda-api (Links to an external site.) how to turn a normal text string into Yodish
+  2. Create talk_yoda_to_me.py and write code where the user is asked to submit a sentence. This sentence will be transformed into Yodish using the API. 
       Print this new sentence.
     
-Part 3 (extra challenge): Chuck Yoda!
+<h4>Part 3 (extra challenge): Chuck Yoda!</h4>
 
 Now we know how to address both APIs it is time to connect them into our new service. Chuck Yoda.
 
-  1- Check out the documentation on https://api.chucknorris.io/ (Links to an external site.) and read how the “random chuck joke from a specific category” endpoint works.
-  2- Create chuck_yoda.py and write code that
-    2a- Take a random Chuck Norris quote from the science category.
-    2b- Change the text “Chuck Norris” with the replace method to I or I am.
+  1. Check out the documentation on https://api.chucknorris.io/ (Links to an external site.) and read how the “random chuck joke from a specific category” endpoint works.
+  2. Create chuck_yoda.py and write code that
+    2a. Take a random Chuck Norris quote from the science category.
+    2b. Change the text “Chuck Norris” with the replace method to I or I am.
     
