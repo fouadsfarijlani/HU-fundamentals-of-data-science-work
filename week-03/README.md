@@ -8,9 +8,9 @@ Your task is to extend this code by adding a basic form of user management.
 
 1. create a users.json file and structure in a text editor with a few users containing the items below. Take a look at songs.json  
 Download songs.jsonfor an example of how to structure such as a JSON file.
-  - login name
-  - password
-  - role ("owner" or "family member")
+   - login name
+   - password
+   - role ("owner" or "family member")
   
 2. Use spotify.py  Download spotify.pyand make the following additions:
   - Make a function that opens users.json
