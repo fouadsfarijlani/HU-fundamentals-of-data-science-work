@@ -1,9 +1,9 @@
 
 The following file contains the assignment week 05.
 
-<h3>Given</h3>: 
+<h3>Given:</h3> 
 
-<h4>Part 1: Chuck Norris promptly killed Video for killing the Radio Star</h4>.
+<h4>Part 1: Chuck Norris promptly killed Video for killing the Radio Star.</h4>
 
 Chuck Norris facts are satirical factoids about martial artist and actor Chuck Norris that have become an Internet phenomenon and as a result, 
 have become widespread in popular culture.
